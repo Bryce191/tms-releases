@@ -3,8 +3,8 @@
   "releaseDate": "2026-10-20",
   "title": "Property Management System v1.1.0",
   "releaseNotes": "• Tenancy and payment archival feature\n• Automatic pre-update safety backup\n• Actions column layout optimization\n• In-place auto update",
-  "downloadUrl": "https://github.com/PCW-Tech/tms-releases/releases/download/v1.1.0/TMS-Setup-1.1.0.exe",
-  "fileName": "TMS-Setup-1.1.0.exe",
-  "fileSizeBytes": 65000000,
+  "downloadUrl": "https://github.com/Bryce191/tms-releases/releases/download/v1.1.0/publish.zip",
+  "fileName": "publish.zip",
+  "fileSizeBytes": 63994462,
   "isMandatory": false
 }
